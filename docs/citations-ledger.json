@@ -1,0 +1,1491 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10182257",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "It is estimated that BCM affects approximately 1 in 100,000 people worldwide",
+          "added": "2026-10-22"
+        },
+        {
+          "text": "The most common missense mutation observed in this scenario is a Cys203Arg (C203R) mutation in an _OPN1LW_/ _OPN1MW",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10906232",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": ") is the most common missense mutation in human cone opsin. Linked to color blindness and blue cone monochromacy (BCM), C203 is involved in a crucial disulfide bond required for proper folding",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1368089/full",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 4,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10828017",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 5,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8462070",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 6,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9347391",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 7,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12655462",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 8,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7987357",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 9,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9604474",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 10,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10146473",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 11,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11396370",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "There are currently five gene therapy clinical trials registered for human patients at the phase I/II stage and for _CNGA3_ or _CNGB3_ causing achromatopsia. This review aims to discuss the genetics of achromatopsia, genotypic and phenotypic correlations in multim",
+          "added": "2026-10-22"
+        },
+        {
+          "text": "tested the safety and efficacy of AAV8-hCARp. _hCNGB3_ gene replacement therapy on 23 participants (11 adults and 12 children) with _CNGB3_-associated achromatopsia \\",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5733843",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 13,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10148663",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 14,
+      "url": "https://medlineplus.gov/genetics/gene/opn1lw",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 15,
+      "url": "https://www.medlineplus.gov/download/genetics/gene/opn1mw.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 16,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33528822",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 17,
+      "url": "http://crispor.tefor.net",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 18,
+      "url": "http://ncbi.nlm.nih.gov/omim/300821",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 19,
+      "url": "http://www.molvis.org/molvis/v15/a91",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 20,
+      "url": "http://www.molvis.org/molvis/v26/158/mv-v26-158.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 21,
+      "url": "http://www.molvis.org/molvis/v28/21",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 22,
+      "url": "http://www.molvis.org/molvis/v3/a16",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 23,
+      "url": "http://www.neitzvision.com/research/gene-therapy",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 24,
+      "url": "http://www.neitzvision.com/research/publications/publications/2009-Mancuso-Gene_therapy_for_red-green_colour_blindness-Nature.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 25,
+      "url": "https://academic.oup.com/brain/article-abstract/145/11/3803/6673168",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 26,
+      "url": "https://academic.oup.com/mend/article/20/8/1728/2738206",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 27,
+      "url": "https://affinage.wi.mit.edu/api/gene/OPN1LW",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 28,
+      "url": "https://araceagainstblindness.org/education/genes/CNGB3",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 29,
+      "url": "https://bits.fudan.edu.cn/static/publication_pdf/2023_SciAdv_Cas12j.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 30,
+      "url": "https://chopchop.cbu.uib.no",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 31,
+      "url": "https://chopchop.cbu.uib.no/scoring",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 32,
+      "url": "https://crisprmedicinenews.com/news/gene-editing-highlights-from-retina-international-world-congress-2024",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 33,
+      "url": "https://data.epo.org/publication-server/rest/v1.2/publication-dates/2025-11-19/patents/EP3517135NWB1/document.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 34,
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10183864/1/s41598-023-49112-2.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 35,
+      "url": "https://disorders.eyes.arizona.edu/category/alternate-names/protanopia",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 36,
+      "url": "https://disorders.eyes.arizona.edu/category/clinical-features/anomalous-color-vision",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 37,
+      "url": "https://doi.org/10.1073/pnas.2416827121",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 38,
+      "url": "https://en.wikipedia.org/wiki/OPN1LW",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 39,
+      "url": "https://gene.vision/knowledge-base/achromatopsia-for-doctors",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 40,
+      "url": "https://gene.vision/knowledge-base/cngb3",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 41,
+      "url": "https://insight.jci.org/articles/view/172834",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 42,
+      "url": "https://investors.primemedicine.com/news-releases/news-release-details/prime-medicine-presents-first-vivo-proof-concept-prime-editing",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 43,
+      "url": "https://ir.editasmedicine.com/node/10671/pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 44,
+      "url": "https://iris.unimore.it/bitstream/11380/1236862/2/1-s2.0-S0002929721000069-main.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 45,
+      "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2765029",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 46,
+      "url": "https://jamanetwork.com/journals/jamaophthalmology/fullarticle/413200",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "Codons 277 and 285 encode amino acids that determine whether the specified pigment is L or M. Black and white boxes indicate that am",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "url": "https://journals.lww.com/co-ophthalmology/fulltext/2015/09000/achromatopsia__a_review.2.aspx",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 48,
+      "url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1007274&type=printable",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 49,
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0332684",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 50,
+      "url": "https://link.springer.com/article/10.1007/s00294-026-01339-y",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 51,
+      "url": "https://link.springer.com/content/pdf/10.1007/s13353-025-00973-5.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 52,
+      "url": "https://lumic-eye.jp/en/retina/achromatopsia",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 53,
+      "url": "https://medlineplus.gov/genetics/gene/cngb3",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 54,
+      "url": "https://medlineplus.gov/genetics/gene/opn1mw",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 55,
+      "url": "https://medlineplus.gov/genetics/gene/opn1sw",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 56,
+      "url": "https://meiragtx.com/wp-content/uploads/2023/10/First-in-Human-Gene-Therapy-Trial-of-AAV8-hCARp.h-CNGB3-in-Adults-and-Children-With-CNGB3-associated-Achromatopsia.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 57,
+      "url": "https://omim.org/entry/190900",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 58,
+      "url": "https://omim.org/entry/300821",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 59,
+      "url": "https://omim.org/entry/600053",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 60,
+      "url": "https://omim.org/entry/613522",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 61,
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/advs.202308095",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 62,
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/humu.20790",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 63,
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/humu.23311",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 64,
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/smtd.202000309",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 65,
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ceo.14593",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 66,
+      "url": "https://openaccess.city.ac.uk/id/eprint/23584/1/Photoreceptors%20Color%20Vision_submitted%20to%20CRO.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 67,
+      "url": "https://openaccess.city.ac.uk/id/eprint/29916/1/i2164-2591-12-1-25_1674547467.12385.pdf",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "Twenty-one patients had large structural variants at the *OPN1LW/OPN1MW* gene cluster (i.e., large deletion mutations), and 15 patients carried the p.C203R missense mutation in single or multiple *OPN1LW/OPN1MW* genes. Procedures followed the Declaration of Helsinki, and the study was approved by the Univers",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "url": "https://patents.google.com/patent/JP2025528188A/en",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 69,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035435",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 70,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10298554",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 71,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10317068",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 72,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10337206",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 73,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10460145",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 74,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10474087",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "Base editors enable precise conversion of one nucleotide to another without generating double-strand breaks (DSBs) in the target DNA. Prime editors offer a versatile genome-editing platform that can introduce a broad range of desired alterations, inclu",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10668613",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 76,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10722277",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 77,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10768554",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 78,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10946592",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 79,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11005076",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 80,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11298110",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 81,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11538286",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 82,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11962696",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "7q32.1 | Short‐wave sensitive cone opsin | Autosomal dominant | Tritanopia (190900) | | _GNAT1_ | 3p21.31 | Alpha subunit of rod transducin | Autosomal dominant | Stationary",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12000072",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 84,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12072747",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 85,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12109910",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 86,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12204363",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 87,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12319022",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 88,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12644701",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 89,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12662786",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 90,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12812445",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 91,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12838982",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 92,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12848201",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 93,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12932096",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "EDIT-101, the first in vivo CRISPR-based therapy to enter human trials, targets the IVS26 mutation in the _CEP290_ gene, which causes Leber Congenital Amaurosis type",
+          "added": "2026-10-22"
+        },
+        {
+          "text": "n. Early findings from the phase 1/2 BRILLIANCE trial ( [NCT03872479](https://clinicaltrials.gov/ct2/show/NCT03872479)) report favorable safety outcomes and improved photoreceptor function in eleven of fourteen treated participants",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13002551/table/t2",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 95,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13109818",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 96,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13182793",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 97,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13297016",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "The most common missense mutation in L- and M-opsin genes is C203R, a substitution of the cysteine at position 203 by",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13412194",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 99,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1771989",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 100,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2782927",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 101,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3073527",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 102,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3381355",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 103,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3516400",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 104,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4208712",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 105,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4285181",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 106,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4717370",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "cipal opsin array mutational mechanisms on Xq28: (i) LCR deletion (approx. 40% cases)<br>(ii) Non-homologous recombination between _OPN1LW_/ _OPN1MW_ resulting in a single gene in the array with a subsequent inactivating point mutation (approximately 60% of cases)",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4741229",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 108,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4786023",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 109,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4993104",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 110,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5821199",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 111,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6068165",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 112,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6070699",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 113,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6319323",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 114,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6716949",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 115,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7057104",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 116,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7081934",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 117,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7254067",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "n 3 +5G deletion, affects a nucleotide that is part of the 5’ splicing signal for intron 3 and thus has the potential to disrupt pre-messenger RNA splicing and the minor allele frequency is estimated to be 0.132% in large population studies",
+          "added": "2026-10-22"
+        },
+        {
+          "text": "individuals heterozygous for the exon 3 +5G deletion mutant will have S cones that contain half the normal amount of opsin protein",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8259781",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 119,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8347118",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 120,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8391646",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "they share greater than 96% nucleotide sequence identity over their entire ~40 kilobase pair (kb) length",
+          "added": "2026-10-22"
+        },
+        {
+          "text": "The four variants frequently associated with vison disorders are LIAVA (Leucine 153, Isoleucine 171 Alanine 174, Valine 178, Alanine 180), LVAVA (Leucine 153, Valine 171, Alanine 174, Valine 178, Alan",
+          "added": "2026-10-22"
+        },
+        {
+          "text": "is the term for CVD mediated by S and L cones and is the most common form, accounting for about 6% of males. Protan, derived from Gre",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8477987",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 122,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8766373",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "rare genetic eye disease that is inherited in an autosomal recessive manner and affects approximately one in 30,000 people",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8840918",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "used dual split-intein-based AAV vectors to activate the rhodopsin-related _Opn1mw_ (middle wavelength opsin, M-opsin) gene in rod photoreceptors in the rhodopsin-deficient mouse model for retinitis pigmentosa, the most common form of inherited retinal b",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9271157",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 125,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9456398",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 126,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9569511",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 127,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9589773",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 128,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9646815",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "IM: 303900\\] or deuteranopia \\[MIM: 303800\\], respectively) with normal visual acuity and cone electroretinogram (ERG), affects approximately 1 in 12 males and 1 in 200 females",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9913839",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 130,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9996133",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 131,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9996380",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 132,
+      "url": "https://primemedicine.com/wp-content/uploads/2025/10/ESGCT-Prime-Editing-in-Retinitis-Pigmentosa-Poster-1.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 133,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10888875",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 134,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11536077",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 135,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21219924",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 136,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34703197",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 137,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36241547",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 138,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37433300",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 139,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40064881",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 140,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?from_uid=54714&linkname=gene_pubmed_rif",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 141,
+      "url": "https://retinatoday.com/articles/2025-july-aug/top-irds-to-watch-achromatopsia",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 142,
+      "url": "https://scge.mcw.edu/platform/data/report/clinicalTrials/NCT03758404",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 143,
+      "url": "https://scispace.com/pdf/osobennosti-epidemiologii-kliniki-i-patogeneza-akhromatopsii-4lzn6oiueg.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 144,
+      "url": "https://sites.socsci.uci.edu/~kjameson/VerrelliEtAl2008.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 145,
+      "url": "https://trepo.tuni.fi/bitstream/handle/10024/159755/LiljaOlivia.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 146,
+      "url": "https://trepo.tuni.fi/bitstream/handle/10024/159755/LiljaOlivia.pdf?sequence=2&isAllowed=y",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 147,
+      "url": "https://vision.psychol.cam.ac.uk/jdmollon/papers/achromatopsia.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 148,
+      "url": "https://www.allpsych.uni-giessen.de/karl/colbook/sharpe.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 149,
+      "url": "https://www.blueconemonochromacy.org/wp-content/uploads/2011/08/Deeb_2004.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 150,
+      "url": "https://www.broadinstitute.org/publications/broad1357371",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 151,
+      "url": "https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(20",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 152,
+      "url": "https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(21",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 153,
+      "url": "https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(23",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 154,
+      "url": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(25",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 155,
+      "url": "https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(23",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 156,
+      "url": "https://www.cgtlive.com/view/cngb3-achromatopsia-gene-therapy-improves-visual-sensitivity",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 157,
+      "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-note-guidance-quality-preclinical-and-clinical-aspects-gene-transfer-medicinal-products-annex-non-clinical-testing-inadvertent-germline-transmission-gene-transfer-vectors_en.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 158,
+      "url": "https://www.fightingblindness.org/news/agtc-announces-results-for-achromatopsia-gene-therapy-clinical-trials-802",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 159,
+      "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.00851/full",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 160,
+      "url": "https://www.frontiersin.org/journals/genome-editing/articles/10.3389/fgeed.2021.775330/full",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 161,
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2021.698521/full",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 162,
+      "url": "https://www.frontiersin.org/journals/ophthalmology/articles/10.3389/fopht.2023.1188522/full",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 163,
+      "url": "https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/gene-therapy-for-achromatopsia-cngb3",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 164,
+      "url": "https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/gene-therapy-of-patients-with-achromatopsia-due-to-cnga3-defects",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 165,
+      "url": "https://www.informatics.jax.org/marker/MGI:99438",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 166,
+      "url": "https://www.jci.org/articles/view/158287",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 167,
+      "url": "https://www.jneurosci.org/content/40/42/8132",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 168,
+      "url": "https://www.kpbs.org/news/national/2015/03/25/university-and-biotech-firm-team-up-on-colorblindness-therapy",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 169,
+      "url": "https://www.malacards.org/card/tritanopia",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 170,
+      "url": "https://www.managedhealthcareexecutive.com/view/gene-therapy-for-rare-eye-disease-to-advance-to-human-trial",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "Children’s Hospital Los Angeles and the Blue Gen Therapeutics Foundation will conduct the work to prepare for clinical trials for BGTF-027, including developing a protocol for a phase 1 clinical trial and preparing the investigational new drug application for submission to the FDA. Blue Gen Therapeutics Foundation also licensed ADVM-082, an intravitreal gene therapy that e",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "url": "https://www.mdpi.com/1422-0067/21/7/2329",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 172,
+      "url": "https://www.mdpi.com/2073-4409/15/12/1098",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 173,
+      "url": "https://www.nationalgeographic.com/science/article/gene-therapy-gives-full-colour-vision-to-colour-blind-monkeys",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 174,
+      "url": "https://www.nature.com/articles/5201269",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "a 1 bp deletion, c.1148delC, which accounts for over 70% of all _CNGB3_ mutant alleles. In conclusion, mutations in the _CNGB3_ gene are responsible for approximately 50% of all patie",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "url": "https://www.nature.com/articles/eye2009251",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 176,
+      "url": "https://www.nature.com/articles/hgv201611",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 177,
+      "url": "https://www.nature.com/articles/nature08401",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "the addition of a third opsin in adult red–green colour-deficient primates was sufficient to produce trichromatic colour vision behaviour. Thus, trichromacy can arise from a single addition of a third cone class and it does not require an ear",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "url": "https://www.nature.com/articles/nature20565",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 179,
+      "url": "https://www.nature.com/articles/nrg2106",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 180,
+      "url": "https://www.nature.com/articles/s41434-025-00527-8",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 181,
+      "url": "https://www.nature.com/articles/s41434-025-00573-2",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "the limited packaging capacity of rAAV vectors (<4.7 kb) remains a significant challenge for in vivo delivery of CRISPR components",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "url": "https://www.nature.com/articles/s41467-022-28674-1",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 183,
+      "url": "https://www.nature.com/articles/s41467-025-57628-6",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "a PE system is designed to target the PDE6B Y347X mutation in the _rd1_ mouse strain, a preclinical RP model. We screen and develop the PE system with epegRNA and RTΔRnH, which is delivered via dual-AAV in vivo with an editing efficiency of 26.47 ± 13.35%, w",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "url": "https://www.nature.com/articles/s41467-025-67239-w",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 185,
+      "url": "https://www.nature.com/articles/s41467-026-71626-2",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 186,
+      "url": "https://www.nature.com/articles/s41525-022-00334-9",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 187,
+      "url": "https://www.nature.com/articles/s41551-022-00911-4",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "Starting with the small, robust editor SaABE8e (3.9 kb)",
+          "added": "2026-10-22"
+        },
+        {
+          "text": "n which the entire base editor, its guide RNA, and all necessary promoters and regulatory sequences are present in a single AAV (≤~5.0 kb, including ITRs). We first identified high-effici",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "url": "https://www.nature.com/articles/s41592-020-0861-5",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 189,
+      "url": "https://www.nature.com/articles/s41598-017-06982-7",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 190,
+      "url": "https://www.nature.com/articles/s42003-025-09045-0",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "f human _OPN1LW_ cDNA driven by a cone-specific PR2.1 promoter via subretinal injection. In both models, we observed robust rescue of cone function and regeneration of cone outer segment morphology when mice were treated at less than 3 months of age. However, therapy efficacy was significantly reduced when DKO and C198R mice were treated at 5 months or older",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "url": "https://www.nature.com/articles/srep28253",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "Nine haplotypes resulted in aberrant splicing of ≥20% of transcripts including the known pathogenic haplotypes (i.e. ‘LIAVA’, ‘LVAVA’) with absent or minute amounts of correctly spliced transcripts, respectively. _De novo_ forma",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK447271",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 193,
+      "url": "https://www.ncbi.nlm.nih.gov/medgen/C0155017",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 194,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682812",
+      "title": "",
+      "accessed": "2026-10-22",
+      "quotes": [
+        {
+          "text": "great majority of red-green defects were associated with either the deletion of the green-pigment gene or the formation of 5' red-green hybrid genes or 5' green-red hybrid genes. A rapid PCR-based method allowed detection",
+          "added": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4167788",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 196,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC44379/pdf/pnas01137-0556.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 197,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4450355",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 198,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5656413",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 199,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746594",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 200,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7264432",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 201,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7264438",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 202,
+      "url": "https://www.nei.nih.gov/research-and-training/research-news/crispr-gene-editing-promising-blinding-disease-retinitis-pigmentosa",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 203,
+      "url": "https://www.nichigan.or.jp/Portals/0/JJO_PDF/044060596.pdf",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 204,
+      "url": "https://www.omim.org/entry/262300",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 205,
+      "url": "https://www.omim.org/entry/303900",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 206,
+      "url": "https://www.ophthalmologytimes.com/view/gene-therapy-offers-first-steps-in-treatment-of-achromatopsia",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 207,
+      "url": "https://www.orpha.net/en/disease/detail/16",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 208,
+      "url": "https://www.pharmacology.cup.uni-muenchen.de/research/retinal_gene_therapy/index.html",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 209,
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2210104119",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 210,
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2416827121",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 211,
+      "url": "https://www.pnas.org/doi/pdf/10.1073/pnas.1902292116",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 212,
+      "url": "https://www.sciencedirect.com/topics/neuroscience/opn1lw",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 213,
+      "url": "https://www.webvision.pitt.edu/book/part-iii-retinal-circuits/s-cone-pathways",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 214,
+      "url": "https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(20)30236-7",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 215,
+      "url": "https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(21)00457-3",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 216,
+      "url": "https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(23)00061-8",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 217,
+      "url": "https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(23)00132-6",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 218,
+      "url": "https://www.cell.com/molecular-therapy-family/nucleic-acids/fulltext/S2162-2531(25)00176-3",
+      "title": "",
+      "accessed": "2026-10-22"
+    },
+    {
+      "id": 219,
+      "url": "https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(23)00085-9",
+      "title": "",
+      "accessed": "2026-10-22"
+    }
+  ]
+}
