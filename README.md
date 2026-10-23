@@ -1,5 +1,12 @@
 # color-vision-crispr
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Phase](https://img.shields.io/badge/phase-research--complete-green)](Project_state.md)
+[![Next](https://img.shields.io/badge/next-guide%20design-blue)](Project_state.md)
+![Citation Ledger](https://img.shields.io/badge/citation%20ledger-219%20sources-orange)
+[![Paper](https://img.shields.io/badge/paper-evidence--verified%20citations-brightgreen)](paper/color-vision-crispr-review.md)
+![Scope](https://img.shields.io/badge/scope-in--silico%20only-red)
+
 Computational research project: design CRISPR-based strategies to correct the genetic defects
 behind each major type of color blindness, per disease class. **In-silico literature and design
 only** — no wet-lab protocols, no clinical claims. Clinical decisions remain with Dr. Walker.
